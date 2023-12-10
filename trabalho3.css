@@ -164,6 +164,17 @@ i#burguer:hover {
     border-radius: 10px;
     gap: 10px;
 }
+.grid6 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 950px;
+    padding: 10px;
+    margin: 0 auto;
+    background-color: #808080;
+    border-radius: 10px;
+    gap: 10px;
+}
+
 
 
 
